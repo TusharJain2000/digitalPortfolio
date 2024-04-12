@@ -58,7 +58,7 @@ const Portfolio = () => {
                  <a href={liveLink} target=" ">Live Demo</a> 
                 </button>
                 <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                  <a href={gitLink} target=" ">Code</a> 
+                  <a href={gitLink} target=" ">Know More.. </a> 
                 </button>
               </div>
             </div>
